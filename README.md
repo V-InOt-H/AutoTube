@@ -174,17 +174,13 @@ Rename the downloaded file to:
 
 client_secret.json
 
-
 Place it in the root directory of the project
-
-⚠️ Do not upload client_secret.json to GitHub
 
 5️⃣ Authenticate YouTube Account
 
 When you run the uploader for the first time:
 
 python youtube_uploader.py
-
 
 A browser window will open
 
@@ -194,14 +190,13 @@ Grant permissions
 
 This will generate a token.json file automatically.
 
-⚠️ Do not upload token.json to GitHub
-
 6️⃣ Run the Pipeline
 
 After setup, run the pipeline in order:
 
 python pipeline_runner.py
 
+boom now the video is generated and ulpoad directly to your youtube channel
 
 🎯 Why I Built This
 
