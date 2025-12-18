@@ -1,0 +1,22 @@
+# Core utilities
+requests
+tqdm
+python-dotenv
+
+# LLM / Generative AI
+ollama
+openai
+google-generativeai
+
+# Image & Video processing
+moviepy
+Pillow
+
+# Audio / Text-to-Speech
+edge-tts
+
+# YouTube API & OAuth
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
