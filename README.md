@@ -41,11 +41,7 @@ Uses them to create a 9:16 vertical video
 
 Creates slideshow with transitions
 
-Adds thumbnail
-
 Uses MoviePy & ffmpeg
-
-Supports subtitles (Whisper integration optional)
 
 
 🔹 YouTube Auto Upload
